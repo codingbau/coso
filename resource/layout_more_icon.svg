@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="矩形_12_拷贝_6" data-name="矩形 12 拷贝 6" class="cls-1" d="M1674,19h4v4h-4V19Zm0,6h4v4h-4V25Zm0,6h4v4h-4V31Zm-6-12h4v4h-4V19Zm0,6h4v4h-4V25Zm0,6h4v4h-4V31Zm12-12h4v4h-4V19Zm0,6h4v4h-4V25Zm0,6h4v4h-4V31Z" transform="translate(-1668 -19)"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="组_52" data-name="组 52" xmlns="http://www.w3.org/2000/svg" width="24.75" height="23.79" viewBox="0 0 24.75 23.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #777;
+        fill-opacity: 0;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_1_拷贝" data-name="椭圆 1 拷贝" class="cls-1" cx="10.469" cy="10.47" r="9.469"/>
+  <path id="矩形_10_拷贝" data-name="矩形 10 拷贝" class="cls-2" d="M432.233,1355.19l2.68-2.68,6.7,6.7-2.68,2.68Z" transform="translate(-416.875 -1338.09)"/>
+</svg>

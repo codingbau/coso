@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="形状_17" data-name="形状 17" class="cls-1" d="M1424,297v7h7v-7h-7Zm5,5h-3v-3h3v3Zm-5,16h7v-7h-7v7Zm2-5h3v3h-3v-3Zm-16-9h7v-7h-7v7Zm2-5h3v3h-3v-3Zm7,3h3v-3h-3v3Zm7,4v3h3v-3h-3Z" transform="translate(-1410 -297)"/>
+</svg>
